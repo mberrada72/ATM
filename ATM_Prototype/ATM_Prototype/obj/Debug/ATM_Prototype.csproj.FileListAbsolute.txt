@@ -1,0 +1,9 @@
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\bin\Debug\ATM_Prototype.exe.config
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\bin\Debug\ATM_Prototype.exe
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\bin\Debug\ATM_Prototype.pdb
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\obj\Debug\ATM_Prototype.csprojResolveAssemblyReference.cache
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\obj\Debug\ATM_Prototype.Form1.resources
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\obj\Debug\ATM_Prototype.Properties.Resources.resources
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\obj\Debug\ATM_Prototype.csproj.GenerateResource.Cache
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\obj\Debug\ATM_Prototype.exe
+C:\Users\mberr\Documents\LOCAL-FOLDER\MST_DSTI\COURSES\INFO_SYSTEMS_DESIGN\ATM\ATM_Prototype\ATM_Prototype\obj\Debug\ATM_Prototype.pdb
